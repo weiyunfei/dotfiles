@@ -147,3 +147,6 @@ export PATH=$BRAZIL_CLI_BIN:$PATH
 export PATH=$HOME/.toolbox/bin:$PATH
 export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 
+export RUSTUP_DIST_SERVER="https://rsproxy.cn"
+export RUSTUP_UPDATE_ROOT="https://rsproxy.cn/rustup"
+
